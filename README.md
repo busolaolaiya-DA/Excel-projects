@@ -13,8 +13,9 @@ Demonstrates tables, conditional formatting, IF functions, database functions, a
 ### 2. [Car Sales Analysis](./02-Car-Sales-Analysis/README.md)
 Analyzes car sales performance, quantity sold, and profit by model, date, and year.
 
-### 3. [Inventory Tracking System](./03-Inventory-Tracking/README.md)
-Monitors stock levels, restock alerts, and total inventory value using dynamic formulas.
+### 3. [Payroll & Order Analysis](./04-Payroll-Order-Analysis/README.md)
+A payroll and order analysis project showcasing how to add and manage new data, create PivotCharts for visualization, and use slicers for interactive filtering.  
+It also demonstrates the use of **XLOOKUP** for efficient data retrieval and analysis.
 
 ---
 
