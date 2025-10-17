@@ -1,50 +1,32 @@
-# 📊 Excel Data Analysis Project
+# 📊 Excel Projects Portfolio
 
-This project demonstrates how Excel can be used to clean, analyze, and visualize data effectively using built-in tools and functions.  
-It focuses on creating organized tables, applying logical and database functions, and designing clear visual reports with charts and PivotCharts.
-
----
-
-## 🧠 Key Features
-
-### 1. Structured Data Tables
-- Created well-organized Excel tables to store and manage data efficiently.
-- Used filters, sorting, and formatting for better readability and accessibility.
-
-### 2. Conditional Formatting
-- Highlighted key insights and trends using color scales and icon sets.
-- Automatically emphasized high and low values for quick visual interpretation.
-
-### 3. Logical and Database Functions
-- Applied **IF** and nested **IF** functions for conditional decision-making.
-- Used **database functions** (such as DSUM, DCOUNT, DAVERAGE) for advanced filtering and summarization.
-
-### 4. Charts and PivotCharts
-- Built visual charts to summarize key metrics and highlight patterns.
-- Designed **PivotTables and PivotCharts** for dynamic and interactive analysis.
+Welcome to my collection of Excel-based data analytics projects.  
+Each project demonstrates practical skills in data cleaning, visualization, formulas, and dashboard creation.
 
 ---
 
-## 🛠 Tools & Skills Used
-- Microsoft Excel  
-- Data Tables  
+## 🗂 Projects
+
+### 1. [Data Analysis Project](./01-Sales-Performance-Analysis/README.md)
+Demonstrates tables, conditional formatting, IF functions, database functions, and PivotCharts.
+
+### 2. [Car Sales Analysis](./02-Car-Sales-Analysis/README.md)
+Analyzes car sales performance, quantity sold, and profit by model, date, and year.
+
+### 3. [Inventory Tracking System](./03-Inventory-Tracking/README.md)
+Monitors stock levels, restock alerts, and total inventory value using dynamic formulas.
+
+---
+
+## 🛠 Skills Demonstrated
+- PivotTables & Charts  
+- Lookup & Logical Functions  
 - Conditional Formatting  
-- IF and Nested IF Functions  
-- Database Functions (DSUM, DCOUNT, DAVERAGE)  
-- Charts & PivotCharts  
 - Data Visualization  
+- Dashboard Design  
+- Business Data Reporting  
 
 ---
 
-## 🎯 Project Goal
-The main goal of this project was to practice core Excel data analysis techniques — from organizing raw data to generating insights and visual reports that support decision-making.
+💡 *This repository is an ongoing portfolio — I’ll keep adding new Excel analytics projects as I grow and learn.*
 
----
-
-## 📁 File
-**Filename:** `Excel-Data-Analysis.xlsx`  
-(Open the file to explore all worksheets and dashboards.)
-
----
-
-💡 *This project is part of my data analytics learning journey, focused on mastering Excel as a foundational analysis tool.*
